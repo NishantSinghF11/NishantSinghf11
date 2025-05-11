@@ -1,12 +1,14 @@
 # Incomplete only Demo
 
 <h1 align="center">Hi there, I'm Nishant Singh 👋</h1>
+
 <h3 align="center">CSE Student | AI/ML Enthusiast | Cybersecurity Explorer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishantSingh825&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40C9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Singh;CSE+Student+%7C+Tech+Explorer;Open+Source+Contributor;AI%2FML+%7C+Cybersecurity+%7C+Web+Dev" />
 
 
 <img src="https://github.com/NishantSingh825/NishantSingh825/blob/main/assets/banner.png" alt="banner" width="100%"/>
@@ -16,7 +18,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantSingh825&theme=react-dark" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40C9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Singh;CSE+Student+%7C+Tech+Explorer;Open+Source+Contributor;AI%2FML+%7C+Cybersecurity+%7C+Web+Dev" />
 
 [![Nishant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11)](https://wakatime.com/@nishantsinghf11)
 
