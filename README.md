@@ -1,6 +1,8 @@
+---
+
 <img src="https://github.com/NishantSinghF11/NishantSinghf11/blob/main/NIshant%20Singh11.png" alt="banner" width="100%"/>
 
-# Incomplete only Demo
+--- 
 <h1 align="center">Hi there, I'm Nishant Singh 👋</h1>
 
 <h3 align="center">CSE Student | AI/ML Enthusiast | Cybersecurity Explorer | Open Source Contributor</h3>
@@ -13,6 +15,7 @@
 
  
 
+# Incomplete only Demo (Template)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,linux,mysql,html,css,js,php,vscode,powershell" />
