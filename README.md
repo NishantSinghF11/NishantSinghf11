@@ -11,12 +11,12 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40C9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Singh;CSE+Student+%7C+Tech+Explorer;Open+Source+Contributor;AI%2FML+%7C+Cybersecurity+%7C+Web+Dev" />
 
 
-<img src="https://github.com/NishantSingh825/NishantSingh825/blob/main/assets/banner.png" alt="banner" width="100%"/>
+<img src="https://github.com/NishantSinghF11/NishantSingh8F11/blob/main/assets/banner.png" alt="banner" width="100%"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,linux,mysql,html,css,js,php,vscode,powershell" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantSingh825&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantSinghF11&theme=react-dark" />
 
 
 [![Nishant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11)](https://wakatime.com/@nishantsinghf11)
