@@ -17,6 +17,14 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishantSinghF11&theme=react-dark" />
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nishantsinghf11/nishantsinghf11/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nishantsinghf11/nishantsinghf11/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+ </div>
+
 
 ## 📈 GitHub Stats
 
@@ -28,6 +36,21 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantSinghF11&theme=radical" />
 </p>
+
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavicastelo" />
+  <img alt="repos-per-language" src="repos-per-language.svg" />
+  </picture>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantsinghf11&theme=radical&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishantsinghf11&utcOffset=8" />
+  <img alt="productive-time" src="productive-time.svg" />
+  </picture>
+</div>
 
 ---
 
