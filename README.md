@@ -6,7 +6,7 @@
 <h3 align="center">  AI/ML Enthusiast | Wep development | Codding | Learner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishantSingh825&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=NishantSinghf11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40C9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nishant+Singh;CSE+Student+%7C+Tech+Explorer;Open+Source+Contributor;AI%2FML+%7C+Deep+Leaning+%7C+Web+Dev" />
