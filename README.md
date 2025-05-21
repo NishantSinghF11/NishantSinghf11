@@ -71,7 +71,7 @@
 ##  wakatime
 
 <div align="center">
-
+<a href="https://wakatime.com/@nishantsinghf11">
   <picture>
     <!-- Light theme -->
     <source 
@@ -81,7 +81,7 @@
       src="https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79ff97&border_color=30363d" 
       alt="Nishant's WakaTime Stats" />
   </picture>
-
+ </a>
 </div>
 
 ---
