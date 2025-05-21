@@ -54,17 +54,41 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishantSinghF11&theme=radical&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/NishantSinghF11">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NishantSinghF11&theme=radical&no-frame=true&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=NishantSinghF11&no-frame=true" />
+    <img width=1000 alt="troophy" src="troophy.svg"  style="display:block; margin:auto;"/>
+    </picture>
+  </a>
 </p>
-
-
----
-[![Nishant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11)](https://wakatime.com/@nishantsinghf11) 
+ 
 
 ---
+##  wakatime
+
+<div align="center">
+
+  <picture>
+    <!-- Light theme -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4c1&border_color=e4e2e2" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=nishantsinghf11&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79ff97&border_color=30363d" 
+      alt="Nishant's WakaTime Stats" />
+  </picture>
+
+</div>
+
+---
+
+
+
+
 
 # incomplete only Demo (template)
 
