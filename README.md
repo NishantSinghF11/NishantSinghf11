@@ -69,7 +69,7 @@
 
 ---
 ##  wakatime
-
+[![wakatime](https://wakatime.com/badge/user/563e60e1-1218-4294-9415-e545bd615cb6.svg)](https://wakatime.com/@563e60e1-1218-4294-9415-e545bd615cb6)
 <div align="center">
 <a href="https://wakatime.com/@nishantsinghf11">
   <picture>
